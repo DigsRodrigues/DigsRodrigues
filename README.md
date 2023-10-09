@@ -1,6 +1,6 @@
-<h3 align="left">- You can call me Digs 🌌</h3>
+<h3 align="left">- You can call me Digs </h3>
 
-🖳 Estudando Análise e Desenvolvimento de Sistemas
+  Estudando Análise e Desenvolvimento de Sistemas
 
 ##
 <h3 align="left">- Languages:</h3>
@@ -13,7 +13,7 @@
 <h3 align="left">- Learning in:</h3>
 <div style="display: inline_block"><br>
   <img height="30" width="40" src="https://assets-eu-01.kc-usercontent.com/3a70cbf5-9593-019a-ad98-3785b2f02b51/12049174-d3b7-4f06-980e-55b571260cd3/CLion.svg?w=64&h=64&auto=format&fit=crop">
-  <img height="30" width="40" src="https://assets-eu-01.kc-usercontent.com/3a70cbf5-9593-019a-ad98-3785b2f02b51/c094de56-0bed-4b69-ad77-4760682c9b56/Visual-Studio_Color.svg?w=64&h=64&auto=format&fit=crop">
+  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg?w=64&h=64&auto=format&fit=crop">
 
 ##
 
