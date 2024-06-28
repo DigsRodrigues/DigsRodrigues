@@ -5,13 +5,14 @@
 ##
 <h3 align="left">- Languages:</h3>
 <div style="display: inline_block"><br>
-  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg">
+  <img height="35" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg">
  
 </div>
 
 ##
 <h3 align="left">- Learning in:</h3>
 <div style="display: inline_block"><br>
+  <img height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/clion/clion-original.svg">
   <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg?w=64&h=64&auto=format&fit=crop">
 
 ##
