@@ -10,6 +10,11 @@
 </div>
 
 ##
+<h3 align="left">- Tolls:</h3>
+<div style="display: inline_block"><br>
+  <img height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
+
+##
 <h3 align="left">- Learning in:</h3>
 <div style="display: inline_block"><br>
   <img height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/clion/clion-original.svg">
