@@ -12,7 +12,7 @@
 ##
 <h3 align="left">- Tools:</h3>
 <div style="display: inline_block"><br>
-  <img height="40" width="40" src="https://img.icons8.com/?size=100&id=62856&format=png&color=000000">
+  <img height="40" width="40" src="https://img.icons8.com/?size=100&id=3tC9EQumUAuq&format=png&color=FFFFFF">
   <img height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/clion/clion-original.svg">
   <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg?w=64&h=64&auto=format&fit=crop">
 
