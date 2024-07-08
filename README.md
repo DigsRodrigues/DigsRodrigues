@@ -1,7 +1,11 @@
 <h3 align="left">- You can call me Digs </h3>
 
-  Estudando Análise e Desenvolvimento de Sistemas
-
+  Formado em Administração
+  
+  Atalmente estudando Análise e Desenvolvimento de Sistemas, pela Fatec Mogi Mirim - Arthur de Azevedo
+  
+  Em busca de um estágio
+  
 ##
 <h3 align="left">- Languages:</h3>
 <div style="display: inline_block"><br>
